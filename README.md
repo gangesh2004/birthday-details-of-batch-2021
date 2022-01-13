@@ -1,4 +1,4 @@
-# birthday-details-of-batch-2021
+# birthday-details-of-IIT BHILAI-2021 batch
 Go to Table.md file.
 Edit the Table.md file by clicking on pen icon. Automatically the repo will get forked and you will be in edit mode.
 This is a markdown file having a table. You have to add the asked information in the table. Create your own column in the Table.
